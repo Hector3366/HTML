@@ -1,0 +1,10 @@
+#caja{
+    background-color: aqua ;
+    border: solid black 2px;
+    
+}
+
+p{
+    border: solid red 2px;
+    width: fit-content;
+}
